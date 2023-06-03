@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Hemant-Patil-Portfolio/static/css/main.7826621c.css",
+    "main.js": "/Hemant-Patil-Portfolio/static/js/main.3be9e144.js",
+    "static/js/787.89675183.chunk.js": "/Hemant-Patil-Portfolio/static/js/787.89675183.chunk.js",
+    "static/media/13109031_5134081-removebg-preview.png": "/Hemant-Patil-Portfolio/static/media/13109031_5134081-removebg-preview.81c1ace787034440ac8d.png",
+    "static/media/development-4536630_1280.png": "/Hemant-Patil-Portfolio/static/media/development-4536630_1280.0bae9ddbae657250dd9c.png",
+    "static/media/121-1212170_stylized-h-letter-letter-h-logo-png-removebg-preview.png": "/Hemant-Patil-Portfolio/static/media/121-1212170_stylized-h-letter-letter-h-logo-png-removebg-preview.95942a74b93fedf3e855.png",
+    "index.html": "/Hemant-Patil-Portfolio/index.html",
+    "main.7826621c.css.map": "/Hemant-Patil-Portfolio/static/css/main.7826621c.css.map",
+    "main.3be9e144.js.map": "/Hemant-Patil-Portfolio/static/js/main.3be9e144.js.map",
+    "787.89675183.chunk.js.map": "/Hemant-Patil-Portfolio/static/js/787.89675183.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7826621c.css",
+    "static/js/main.3be9e144.js"
+  ]
+}
